@@ -1,0 +1,15 @@
+streamlit
+mysql-connector-python
+passlib
+Pillow
+pandas
+numpy
+ultralytics
+scikit-learn
+xgboost
+opencv-python
+matplotlib
+plotly
+statsmodels
+seaborn
+python-dateutil
